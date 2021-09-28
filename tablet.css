@@ -1,0 +1,147 @@
+.container{
+    height: 900px;
+}
+#nav-design-theme{
+    width: 140px;
+    height: 80px;
+}
+#nav-company{
+    display: none;
+}
+#nav-services{
+    display: none;
+    
+}
+.container-2{
+    height: 400px;
+    max-width: 600px;
+    margin: auto;
+
+}
+.first-section-parent{
+    overflow: hidden;
+    height: 480px;
+}
+.p1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    margin-top: 0PX;
+    line-height: 1.4em;
+}
+.boxes-container{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    margin-top: 40px;
+    overflow: hidden;
+}
+.suc{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background-color: #2FCBE0;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+}
+.boxes-container .box-1, .box-2, .box-3, .box-4{
+    width: 23%;
+}
+.lorem-paragraph{
+    padding: 5px;
+    font-size: 13px;
+}
+.third-section-images{
+    height: 200px;
+    margin-top: 30px;
+}
+.third-section{
+    width: 100%;
+    height: 450px;
+    background-color:#fff;
+    overflow: hidden;
+}
+.footer-p{
+    font-size: 11px;
+    color: #fff;
+    padding: 15px;
+}
+#second-section-button{
+    margin-top: 20px;
+}
+.responsive-gallery{
+    padding-top: 30px;
+}
+#amazing-title{
+    margin-top: 10px;
+}
+.footer-div{
+    height: 100%;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.second-section-content{
+    width: 80%;
+}
+.last-section-content{
+    width: 80%;
+}
+.box-1, .box-2, .box-3{
+    border-right: 1px solid rgba(141, 141, 141, 0.13);
+
+}
+.p1{
+    font-size: 30px;
+}
+#second-section-lorem{
+    font-size: 13px;
+}
+
+/* third section */
+/* third section */
+/* third section */
+.third-section{
+    width: 100%;
+    height: 440px;
+    background-color:#fff;
+}
+.third-section-images{
+    display: flex;
+    flex-flow: row wrap;
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+}
+.third-section-img{
+    width: 24%;
+    background-color:#fff;
+}
+.third-section-img{
+    display: block;
+    height: 150px;
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#third-section-image-1,
+#third-section-image-2,
+#third-section-image-3,
+#third-section-image-4{
+    background-size: contain;
+    margin-bottom: 10px;
+    
+
+}
+.images-anchor-tags{
+    display: none;
+}
+.second-section{
+    height: 250px;
+}
+.last-section{
+    height: 250px;
+}
+
